@@ -1,5 +1,5 @@
 ---
-permalink: /documents
+permalink: /documents/
 author_profile: true
 ---
 
