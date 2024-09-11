@@ -21,7 +21,7 @@ repository               : "dkmaths/dkmaths.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "David Kolar"
   pronouns         : # example: "she/her"  
   bio              : "Doctorant en mathématiques"
@@ -40,7 +40,7 @@ author:
   researchgate     : # URL
 
   # Repositories and software development
-  github           : "dkmaths"
+  github           : # "dkmaths"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
 # Reading Files
