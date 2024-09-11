@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
+Formation
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master de Mathématiques fondamentales (Université de Rennes)
+* Licence de Mathématiques (Université de Tours)
+* Classe préparatoire aux grandes écoles (PCSI/PC, Lycée Descartes, Tours)
 
-Work experience
+<!-- 
+
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,15 +32,15 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+-->
 
+Compétences
+======
+* LaTeX
+* Python
+
+
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -53,12 +53,8 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+-->
+
+Enseignement
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* TD [Arithmétique et Géométrie](https://perso.univ-rennes1.fr/bernard.le-stum/bernard.le-stum/Enseignement.html) (CM Bernard Le Stum)
