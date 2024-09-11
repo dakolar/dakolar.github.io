@@ -10,3 +10,8 @@ redirect_from:
 — Antoine de Saint-Exupéry
 
 Site en construction !
+
+Centres d'intérêt
+=================
+
+Mes recherches tournent autour des mathématiques condensées, des \\(\infty\\)-catégories et des applications de ces deux domaines en géométrie arithmétique.
