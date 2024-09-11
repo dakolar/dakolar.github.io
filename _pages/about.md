@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 > C'est véritablement utile puisque c'est joli.
-&mdash Antoine de Saint-Exupéry
+
+— Antoine de Saint-Exupéry
 
 Site en construction !
