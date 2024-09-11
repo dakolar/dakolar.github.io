@@ -1,6 +1,6 @@
 ---
 permalink: /documents/
-title: 'Documents"
+title: 'Documents'
 author_profile: true
 ---
 
