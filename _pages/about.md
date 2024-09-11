@@ -6,8 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-> C'est véritablement utile puisque c'est joli.
-
+> C'est véritablement utile puisque c'est joli.  
 — Antoine de Saint-Exupéry
 
 Site en construction !
