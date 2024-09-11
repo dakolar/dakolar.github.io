@@ -1,7 +1,7 @@
 ---
 permalink: /documents/
 title: 'Documents'
-author_profile: true
+author_profile: false
 ---
 
 Mémoires
