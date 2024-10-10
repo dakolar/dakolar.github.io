@@ -13,7 +13,7 @@ Mémoires
 * Master 1
   * Stage: *Catégories abéliennes - Théorème de Freyd-Mitchell* ([texte](/files/memoires/m1-stage.pdf), [diapositives](/files/memoires/m1-stage-beamer.pdf))
 
-Notes diverses (A venir)
+Notes diverses (À venir)
 ------------------------
 
 Sont regroupées ici des notes personnelles sur différents sujets. Elles sont susceptibles de contenir des erreurs et de changer régulièrement.
