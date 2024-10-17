@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "David Kolar"
 author_profile: false
 redirect_from: 
   - /about/
