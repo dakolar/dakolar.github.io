@@ -18,10 +18,11 @@ Notes diverses (À venir)
 
 Sont regroupées ici des notes personnelles sur différents sujets. Elles sont susceptibles de contenir des erreurs et de changer régulièrement.
 
-<!--
-* [Ensembles simpliciaux et leurs fibrations](/files/notes/sset.pdf)
-* [\\(\infty\\)-Catégories](/files/notes/infcat.pdf)
-* [Animation](/files/notes/animation.pdf)
-* [\\(\infty\\)-topos](/files/notes/inftopos.pdf)
-* [\\(\infty\\)-champs](/files/notes/infstack.pdf) 
--->
+* Notes disponibles:
+* Notes en préparation:
+  * Catégories de modèle
+  * Ensembles simpliciaux
+  * \\(\infty\\)-Catégories
+  * Animation
+  * Champs
+  * Géométrie solide
