@@ -20,5 +20,5 @@ Mes recherches tournent autour des mathématiques condensées, des \\(\infty\\)-
 Contact
 =======
 
-Mail: david.kolar (arobase) univ-rennes.fr
+Mail: david.kolar (arobase) univ-rennes.fr  
 Bureau: B22-607
