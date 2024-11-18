@@ -10,7 +10,7 @@ redirect_from:
 > C'est véritablement utile puisque c'est joli.  
 — Antoine de Saint-Exupéry
 
-Site en construction !
+Bienvenue sur ma page personelle. Je suis actuellement doctorant en mathématique à l'IRMAR de Rennes.
 
 Centres d'intérêt
 =================
