@@ -13,6 +13,9 @@ Mémoires
 * Master 1
   * Stage: *Catégories abéliennes - Théorème de Freyd-Mitchell* ([texte](/files/memoires/m1-stage.pdf), [diapositives](/files/memoires/m1-stage-beamer.pdf))
 
+
+Si vous appréciez la mise en page, le prelude \\(\LaTeX\\) est disponible [ici](https://gitlab.com/-/snippets/4797767).
+
 <!-- Notes diverses
 --------------
 
