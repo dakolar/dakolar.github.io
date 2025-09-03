@@ -10,7 +10,7 @@ redirect_from:
 > C'est véritablement utile puisque c'est joli.  
 — Antoine de Saint-Exupéry
 
-Bienvenue sur ma page personelle. Je suis doctorant en mathématique à l'[IRMAR](https://irmar.univ-rennes.fr/) de Rennes, sous la direction de [https://www.bernardlestum.com/](Bernard Le Stum) et [Daniel Caro](https://carod.users.lmno.cnrs.fr/).
+Bienvenue sur ma page personelle. Je suis doctorant en mathématique à l'[IRMAR](https://irmar.univ-rennes.fr/) de Rennes, sous la direction de [Bernard Le Stum](https://www.bernardlestum.com/) et [Daniel Caro](https://carod.users.lmno.cnrs.fr/).
 
 Centres d'intérêt
 ---
