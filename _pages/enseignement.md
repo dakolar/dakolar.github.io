@@ -8,7 +8,7 @@ author_profile: false
 ---------
 
 * TD Algèbre et arithmétique 1 (CM Bernard Le Stum)
-* TD Mathématiques 1 SVE ([Page Moodle de l'UE](https://foad.univ-rennes.fr/enrol/index.php?id=14623))
+* TD Mathématiques 1 SVE
 
 2025-2026
 ---------
