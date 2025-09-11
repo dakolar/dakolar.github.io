@@ -14,6 +14,7 @@ author_profile: false
 ---------
 
 * TD Algèbre et arithmétique 1 (CM Julien Sebag)
-    * [Feuille de TD](/files/enseignement/ar1-2025.pdf) (pas encore disponible)
-    * [Corrigé des exercices faits en TD](/files/enseignement/ar1-2025-solution.pdf) (mis à jour le 09/09)
+    * Feuille de TD sur la page Moodle du cours
+    * [Corrigé des exercices faits en TD](/files/enseignement/ar1-2025-solution.pdf) (mis à jour le 11/09)
+    * [Petit mémo de trigo](/files/enseignement/memo.pdf)
 <!--* TD Mathématiques 1 SVE ([Page Moodle de l'UE](https://foad.univ-rennes.fr/enrol/index.php?id=14623))-->
