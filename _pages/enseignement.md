@@ -15,7 +15,7 @@ author_profile: false
 
 * TD Algèbre et arithmétique 1 (CM Julien Sebag)
     * [Feuille de TD](/files/enseignement/ar1-2025.pdf) (également disponible sur la page Moodle du cours)
-    * [Corrigé des exercices faits en TD](/files/enseignement/ar1-2025-solution.pdf) (mis à jour le 04/10)
+    * [Corrigé des exercices faits en TD](/files/enseignement/ar1-2025-solution.pdf) (mis à jour le 09/10), avec un exercice bonus sur les relations d'équivalences
     * [Petit mémo de trigo](/files/enseignement/trigo.pdf)
     * [Formules à connaître sur les similitudes directes](/files/enseignement/similitudes.pdf)
     * [Corrigé du CC1 (Nombres complexes)](/files/enseignement/ar1-cc1.pdf)
