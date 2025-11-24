@@ -15,8 +15,10 @@ author_profile: false
 
 * TD Algèbre et arithmétique 1 (CM Julien Sebag)
     * [Feuille de TD](/files/enseignement/ar1-2025.pdf) (également disponible sur la page Moodle du cours)
-    * [Petit mémo de trigo](/files/enseignement/trigo.pdf)
-    * [Formules à connaître sur les similitudes directes](/files/enseignement/similitudes.pdf)
+    * [Petit mémo de trigo](/files/enseignement/ar1_trigo.pdf)
+    * [Formules à connaître sur les similitudes directes](/files/enseignement/ar1_similitudes.pdf)
     * [Corrigé du CC1 (Nombres complexes)](/files/enseignement/ar1-cc1.pdf)
 
 * TD Mathématiques 1 SVE ([Page Moodle de l'UE](https://foad.univ-rennes.fr/enrol/index.php?id=14623))
+    * [Petit mémo de trigo](/files/enseignement/sve_trigo.pdf)
+    * [Petit mémo de fonctions dérivées](/files/enseignement/sve_fonctions.pdf)
