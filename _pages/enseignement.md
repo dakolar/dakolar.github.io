@@ -23,3 +23,4 @@ author_profile: false
 * TD Mathématiques 1 SVE ([Page Moodle de l'UE](https://foad.univ-rennes.fr/enrol/index.php?id=14623))
     * [Petit mémo de trigo](/files/enseignement/sve_trigo.pdf)
     * [Petit mémo de fonctions dérivées](/files/enseignement/sve_fonctions.pdf)
+	* [Petit mémo: étude de fonctions](/files/enseignement/sve_limites.pdf)
