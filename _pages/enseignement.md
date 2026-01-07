@@ -24,3 +24,4 @@ author_profile: false
     * [Petit mémo de trigo](/files/enseignement/sve_trigo.pdf)
     * [Petit mémo de fonctions dérivées](/files/enseignement/sve_fonctions.pdf)
 	* [Petit mémo: étude de fonctions](/files/enseignement/sve_limites.pdf)
+	* [Petit mémo: primitives et intégrales](/files/enseignement/sve_primitives.pdf)
