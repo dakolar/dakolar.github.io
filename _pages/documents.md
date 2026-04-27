@@ -19,3 +19,4 @@ Notes diverses
 J'essaie, le plus souvent, de partir de bases les plus largement connues, mais [ce n'est pas toujours bien fait](https://xkcd.com/2501/).
 
 * Séminaire Pampers, 24 avril 2025: [*Introduction aux groupes abéliens solides*](/files/notes/pampers-240425.pdf)
+* Groupe de Travail "Déformations", 7 Avril 2026: [Notes *très brèves* sur les une approche fonctorielle des schémas](/files/notes/gdt-070426.pdf)
