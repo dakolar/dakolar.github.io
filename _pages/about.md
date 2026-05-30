@@ -8,14 +8,18 @@ redirect_from:
 ---
 
 > C'est véritablement utile puisque c'est joli.  
-— Antoine de Saint-Exupéry
+--- Antoine de Saint-Exupéry, *Le Petit Prince*
 
 Bienvenue sur ma page personnelle. Je suis doctorant en mathématique à l'[IRMAR](https://irmar.univ-rennes.fr/), à Rennes, sous la direction de [Bernard Le Stum](https://www.bernardlestum.com/) et [Daniel Caro](https://carod.users.lmno.cnrs.fr/).
 
 Centres d'intérêt
 ---
 
-Mes recherches tournent autour des mathématiques condensées, des \\(\infty\\)-catégories et des applications de ces deux domaines en géométrie arithmétique.
+Mes recherches ont pour but d'utiliser les mathématiques condensées et les \\(\infty\\)-catégories pour mieux comprendre la théorie arithmétique des \\(\mathcal D\\)-modules.
+
+
+<!--Mes recherches tournent autour des mathématiques condensées, des \\(\infty\\)-catégories et des applications de ces deux domaines en géométrie arithmétique.
+-->
 
 Contact
 ---
