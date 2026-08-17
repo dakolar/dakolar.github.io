@@ -17,7 +17,7 @@ Formation
 
 Enseignement
 ------------
-## 2024-2025 et 2025-2026
+## 2024-2025, 2025-2026 et 2026-2027
 * TD Algèbre et Arithmétique 1 (L1 MA)
 * TD MAT-1 (L1 SVE)
 
