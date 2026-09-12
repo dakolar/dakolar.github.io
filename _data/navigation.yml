@@ -16,3 +16,6 @@ main:
 
   - title: "Enseignement"
     url: /enseignement/
+
+  - title: "Opinions"
+    url: /opinions/
