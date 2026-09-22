@@ -24,4 +24,6 @@ author_profile: false
 ---------
 
 * TD Algèbre et arithmétique 1 (CM David Bourqui)
+    * [Petit mémo de trigo](/files/enseignement/2026/trigo.pdf)
+
 * TD Mathématiques 1 SVE
