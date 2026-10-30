@@ -6,6 +6,8 @@ redirect_from:
   - /resume
 ---
 
+Un CV plus détaillé est disponible [en français](/files/cv_fr.pdf) et [en anglais](/files/cv_en.pdf).
+
 Formation
 ---------
 * Doctorat de Mathématiques (Université de Rennes), 2024-*En cours*
